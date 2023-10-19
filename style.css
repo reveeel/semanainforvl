@@ -10,16 +10,8 @@ html {
     text-align: center;
     font-size: 20px;
 }
-#banner h1 {
-    display: flex;
-    align-items: center;
-    text-align: center;
-    float: center;
-    margin-left: 450px;
-}
-.map {
-    padding-right: 1500px;
-}
+
+
 #banner img {
     user-select: none;
 }
